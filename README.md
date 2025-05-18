@@ -1,1 +1,2 @@
 # ProyectoFESD
+El proyecto consiste en un circuito dividido en varias fases que simula un sistema de detección de incendios, que basado en la concentración de humo en el ambiente prende mecanismos de alarma (alarma sonora y luz estroboscópica) y de apagado del incendio (representado por un motor). La propuesta del proyecto es simular a pequeña escala cómo funciona este sistema al implementar el circuito.
